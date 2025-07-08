@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.env
+
+# Django
+db.sqlite3
+
+# React
+node_modules/
+build/
+
+# VS Code
+.vscode/
